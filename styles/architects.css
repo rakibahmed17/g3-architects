@@ -84,8 +84,8 @@ main{
   margin-top: 1rem;
 }
 .feature-content-container{
-  padding-left: 6rem;
-  padding-right: 6rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
 .feature-content-container .quick-list{
 color: #727272;
@@ -106,22 +106,25 @@ font-weight: 700;
 }
 .feature-content{
   color: #727272;
-font-size: 1rem;
+font-size: .5rem;
 font-weight: 400;
 }
 
 /* facts section style */
 .card-container{
-  margin-right: 25px;
-  margin-left: 25px;
+  margin-right: 20px;
+  margin-left: 20px;
   padding: 20px;
   display: flex;
   gap: 15px;
   justify-content: space-around;
 }
 .card-title{
-  text-align: center;
-width: 220px;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+ padding-top: 20px;
+width: 200px;
 height: 220px;
 border-radius: 8px;
 border: 1px solid #FF900E;
