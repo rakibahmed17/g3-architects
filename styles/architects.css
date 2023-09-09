@@ -6,7 +6,8 @@
                 
  font-family: 'Work Sans', sans-serif;
                             
-}.btn-primary{
+}
+.btn-primary{
  width: 180px;
  font-size: 1.2rem;
  color: #FFF;
@@ -128,7 +129,7 @@ border: 1px solid #FF900E;
 }
 .card-content{
  color: #727272;
-font-size: 1.5rem
+font-size: 1.5rem;
 font-weight: 700;
  padding: 45px 90px;
  margin: 10px;
